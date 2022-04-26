@@ -11,5 +11,6 @@ Continua amb el conjunt de dades de tema esportiu que t'agradi i aplica l'anàli
 
 
 
-Nivell 3- Exercici 3
+Nivell 3
+- Exercici 3
 Continua amb el conjunt de dades de tema esportiu que t'agradi i normalitza les dades tenint en compte els outliers.
